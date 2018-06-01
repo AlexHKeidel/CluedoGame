@@ -1,0 +1,21 @@
+G:\VS workspace\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe.config
+G:\VS workspace\CluedoGame\CluedoGame\obj\Debug\CluedoGame.csprojResolveAssemblyReference.cache
+G:\VS workspace\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe
+G:\VS workspace\CluedoGame\CluedoGame\bin\Debug\CluedoGame.pdb
+G:\VS workspace\CluedoGame\CluedoGame\obj\Debug\CluedoGame.exe
+G:\VS workspace\CluedoGame\CluedoGame\obj\Debug\CluedoGame.pdb
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe.config
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.exe
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.pdb
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.pdb
+\\c1stuhome1\stuhome1\k\22397868\My Documents\Visual Studio 2012\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.csprojResolveAssemblyReference.cache
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe.config
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.exe
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.pdb
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\bin\Debug\CluedoGame.pdb
+G:\VS workspace Cluedo\CluedoGame\CluedoGame\obj\Debug\CluedoGame.csprojResolveAssemblyReference.cache
+C:\Users\Alex\SkyDrive\Edge Hill\PLPT\CluedoGame\CluedoGame\bin\Debug\CluedoGame.exe.config
+C:\Users\Alex\SkyDrive\Edge Hill\PLPT\CluedoGame\CluedoGame\obj\Debug\CluedoGame.exe
+C:\Users\Alex\SkyDrive\Edge Hill\PLPT\CluedoGame\CluedoGame\obj\Debug\CluedoGame.pdb
